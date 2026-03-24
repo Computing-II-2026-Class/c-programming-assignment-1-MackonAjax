@@ -1,5 +1,5 @@
-// MANDRE DERRICK AJAX
-// 25/U/BIO/01391/PD
+// Name: MANDRE DERRICK AJAX
+// Student Number: 25/U/BIO/01391/PD
 
 
 #include <stdio.h>
